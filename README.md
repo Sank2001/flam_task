@@ -1,4 +1,0 @@
-﻿# Flam_Assignment
-
-![Screenshot 2025-06-02 135612](https://github.com/user-attachments/assets/1a5be63d-0d7c-4271-9bfc-9c7d3ca0ab1e)
-
