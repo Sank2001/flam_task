@@ -32,4 +32,5 @@ app/
     ├── bookdetail/     # BookDetailFragment/ViewModel
     └── adapters/       # RecyclerView Adapters
 
- 
+ ![Screenshot 2025-06-02 135612](https://github.com/user-attachments/assets/e0ebfd9b-d631-4d7f-900a-7749f0ad7d5f)
+
